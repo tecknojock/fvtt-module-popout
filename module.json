@@ -9,5 +9,6 @@
     "packs": [],
     "url": "https://github.com/tecknojock/fvtt-module-popout",
     "manifest": "https://raw.githubusercontent.com/tecknojock/fvtt-module-popout/master/module.json",
+    "download": "https://github.com/tecknojock/fvtt-module-popout/archive/v0.6.zip",
     "minimumCoreVersion": "0.4.4"
 }
